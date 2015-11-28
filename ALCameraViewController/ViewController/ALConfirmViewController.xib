@@ -59,7 +59,7 @@
                     <animations/>
                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     <constraints>
-                        <constraint firstAttribute="width" secondItem="lnA-tb-Sap" secondAttribute="height" multiplier="1:1" id="lv8-l9-lJq"/>
+                        <constraint firstAttribute="width" secondItem="lnA-tb-Sap" secondAttribute="height" multiplier="16:9" id="lv8-l9-lJq"/>
                     </constraints>
                 </view>
             </subviews>

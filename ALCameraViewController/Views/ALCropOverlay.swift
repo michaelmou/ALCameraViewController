@@ -112,8 +112,8 @@ internal class ALCropOverlay: UIView {
     func createLines() {
         
         outerLines = [createLine(), createLine(), createLine(), createLine()]
-        horizontalLines = [createLine(), createLine()]
-        verticalLines = [createLine(), createLine()]
+//        horizontalLines = [createLine(), createLine()]
+//        verticalLines = [createLine(), createLine()]
         
         topLeftCornerLines = [createLine(), createLine()]
         topRightCornerLines = [createLine(), createLine()]

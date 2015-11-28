@@ -11,6 +11,7 @@ import AVFoundation
 
 public typealias ALCameraViewCompletion = (UIImage?) -> Void
 
+
 public extension ALCameraViewController {
     public class func imagePickerViewController(croppingEnabled: Bool, completion: ALCameraViewCompletion) -> UINavigationController {
         let imagePicker = ALImagePickerViewController()
